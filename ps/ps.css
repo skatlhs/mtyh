@@ -17,7 +17,7 @@
     background-repeat: repeat;
     background-position: 50% 50%;
     background-size: 100% 100%;
-    background-attachment: scroll;
+    background-attachment: scroll;  scrollbar-width: none;
     z-index: 1;
   }
   
@@ -32,6 +32,7 @@
 /*    overflow: hidden;*/
         overflow-x: hidden;
        overflow: scroll;
+      scrollbar-width: none;
     z-index: 10;
   }
   
@@ -52,6 +53,7 @@
 /*    overflow: hidden;*/
     overflow: scroll;
         overflow-x: hidden;
+      scrollbar-width: none;
   }
   
   div#n2-ss-298 .n2-ss-slide-background {
