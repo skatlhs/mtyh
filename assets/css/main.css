@@ -335,6 +335,8 @@ a.nav-custom:hover {
 .standard-p  {
   font-size: 12pt; color: var(--primary); 
   line-height: 40px;
+  height: 35vh;
+  overflow-y: scroll;
 }
 
 a.n2-ss-item-content {
